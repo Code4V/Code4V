@@ -1,7 +1,7 @@
 # CURRENT HAPPENINGS
 
-🔭 I’m currently an Intern at Erovoutika Robotics and Automation
-🌱 I’m currently learning React and Laravel
+🔭 I’m currently an Intern at Erovoutika Robotics and Automation <br>
+🌱 I’m currently learning React and Laravel <br>
 
 <hr>
 
